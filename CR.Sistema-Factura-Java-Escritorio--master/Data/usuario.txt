@@ -1,0 +1,5 @@
+cramirez|christian|ramirez|1234|1
+acaceres|angie|caceres|123|2
+acastillo|ana|castillo|123|2
+vruidias|vanessa|ruidias|123|1
+admin|admin|admin|1234|1

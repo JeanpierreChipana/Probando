@@ -1,0 +1,5 @@
+1|Paracetamol|5|1|
+2|Paracetamol|6|1|
+3|XXXXXX|10|1|
+4|YYYYYY|15|1|
+5|AAAAA|30|2|
